@@ -1,5 +1,5 @@
 **Learnt about the following:**
-- Heading tags such as, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>
+- Heading tags such as, <\h1>, <h2>, <h3>, <h4>, <h5>, <h6>
 - Paragraph tag <p>
 - The difference between (<i> and <em>) and (<b> and <strong>)
 - <hr> tag = Horizontal rule. Which basically puts a horizontal line on the page
