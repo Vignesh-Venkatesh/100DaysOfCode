@@ -14,27 +14,27 @@ and it turned out to be pretty easy *(this is expected coz it is a <1300 rated q
 
 Tbh, i don't think my thought process is really required here as it is a very simple question.
 
-The following link is my submission:
+**The following link is my submission:**
 
-[Vignesh's Young Physicist Sumbission](https://codeforces.com/contest/69/submission/148750572)
+*[Vignesh's Young Physicist Sumbission](https://codeforces.com/contest/69/submission/148750572)*
 
 ### **BeautifulMatrix.py**
 ---
 This particular question was also not that tough. However, I did have a small bug in my program that wasted
 10 mins of my time. The bug was that I forgot how list indices worked and just messed up the order by 1.
 
-The following link is my submission:
+**The following link is my submission:**
 
-[Vignesh's Beautiful Matrix Submission](https://codeforces.com/contest/263/submission/148751052)
+*[Vignesh's Beautiful Matrix Submission](https://codeforces.com/contest/263/submission/148751052)*
 
 ### **Borze.py**
 ---
 Although all of the programs were easy, this particular program had to be the easiest of them all.
 It literally just took me 2-2.5 minutes to code up. *(useless flex, I know 😔)*
 
-The following link is my submission:
+**The following link is my submission:**
 
-[Vignesh's Borze Submission[(https://codeforces.com/contest/32/submission/148752390)
+*[Vignesh's Borze Submission[(https://codeforces.com/contest/32/submission/148752390)*
 
 
 ### **Final Thoughts:**
