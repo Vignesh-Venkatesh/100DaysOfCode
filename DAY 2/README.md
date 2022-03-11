@@ -1,3 +1,6 @@
+## **DAY 2 (8-MAR-2022)**
+---
+
 **Learnt about the following:**
 - Heading tags such as, `<h1>, <h2>, <h3>, <h4>, <h5>, <h6>`
 - Paragraph tag `<p>`
