@@ -1,4 +1,4 @@
-## **DAY 1**
+## **DAY 1 (7-MAR-2022)**
 ---
 So, this is the beginning of my 100 days of code challenge, and I am pretty excited about
 the outcome. As I mentioned in the decription of this repository, I won't be able to dedicate
