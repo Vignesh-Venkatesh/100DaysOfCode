@@ -51,6 +51,7 @@ This was a bit tricky coz I messed up the logic in my first attempt and failed o
 
 *[Vignesh's Football Submission](https://codeforces.com/problemset/submission/96/149374401)*
 
+---
 
 Alright then, I guess this is it for today.. My plan for tomorrow is to study for Math but I'll still try coding few problems and this time I'll try solving level 2 questions as well. I'll also learn markdown in order to get this formatting done a bit more neatly 😊.
 
