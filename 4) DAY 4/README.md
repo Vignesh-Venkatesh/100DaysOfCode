@@ -2,6 +2,7 @@
 ---
 Just starting out to do some problems from the A2OJ Ladder... Let's see how it goes..
 
+---
 ### **AmusingJoke.py**
 ---
 This question required me to look closely at what the question asked. This is because at first I had the wrong approach but then read the question once again and figured out a way to solve the problem. Overall, I think it was pretty easy to ssolve.
@@ -10,6 +11,7 @@ This question required me to look closely at what the question asked. This is be
 
 *[Vignesh's Amusing Joke Submission](https://codeforces.com/problemset/submission/141/149363118)*
 
+---
 ### **WayTooLongWords.py**
 ---
 This question had to be the easiest of them all.. Literally solved it in a minute.. Try it out for yourself. It was simple and straight to the point.
@@ -18,6 +20,7 @@ This question had to be the easiest of them all.. Literally solved it in a minut
 
 *[Vignesh's Way Too Long Words Submission](https://codeforces.com/problemset/submission/71/149363322)*
 
+---
 ### **I_love_%username%.py**
 ---
 No comments.. very easy 🙂
@@ -26,6 +29,7 @@ No comments.. very easy 🙂
 
 *[Vignesh's I_love_%username% Submission](https://codeforces.com/problemset/submission/155/149363847)*
 
+---
 ### **BoyorGirl.py**
 ---
 This question was also pretty straightforward.
@@ -34,6 +38,7 @@ This question was also pretty straightforward.
 
 *[Vignesh's I_love_%username% Submission](https://codeforces.com/problemset/submission/236/149364663)*
 
+---
 ### **Football.py**
 ---
 This was a bit tricky coz I messed up the logic in my first attempt and failed one of the testcases. I then read through the problem and reformulated my approach and then eventually wrote a much cleaner code which in turn passed all the testcases.
