@@ -36,7 +36,7 @@ document.getElementById("root").append(h1)
 ---
 The approach used in React is a **`Declarative Approach`**. This means something like this: *`"Just tell me what to do, and I'll worry about how I get it done`*
 
-The approach used in Vanilla JS is a **`Imperative Approach`**. This means something like this: *`Describe to me every step on how to do something, and I'll do it`*
+The approach used in Vanilla JS is a **`Imperative Approach`**. This means something like this: *`"Describe to me every step on how to do something, and I'll do it"`*
 
 ---
 React uses the **`JSX`** format
